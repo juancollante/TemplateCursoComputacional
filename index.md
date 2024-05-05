@@ -10,7 +10,7 @@ layout: course-multi
 ---
 <br/>
 
-# <a name="description">Overview</a>
+# <a name="description">Descripción</a>
 
 {{ site.description }}
 
