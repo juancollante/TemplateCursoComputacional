@@ -30,7 +30,7 @@ semester: Fall 2019
 hypothesis: false
 
 navigation:
-  - title: Descripción
+  - title: Overview
     subfolderitems:
       - page: Description
         url: '#description'
