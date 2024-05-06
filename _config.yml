@@ -14,19 +14,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 description: >- # this means to ignore newlines until "baseurl:"
-  Introduction to solving computational problems, including the fundamentals
-  of computer programming. Topics include imperative programming constructs
-  (variables, loops, conditionals, functions, recursion), basic
-  object-oriented constructs (classes, objects), and some fundamental
-  algorithms and data structures (dictionaries, arrays, linked lists).
-  Student learn these concepts through studying the Python programming
-  language.
-baseurl: "/csci000" # the subpath of your site, e.g. /blog
-url: "https://hendrix-cs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  Introducción a la resolución de problemas computacionales, 
+  que incluye los fundamentos de la programación informática. Los temas 
+  incluyen constructos de programación imperativa (variables, bucles, 
+  condicionales, funciones, recursión), constructos básicos orientados a objetos 
+  (clases, objetos) y algunos algoritmos fundamentales y estructuras de datos 
+  (diccionarios, matrices, listas enlazadas). Los estudiantes aprenden estos conceptos 
+  a través del estudio del lenguaje de programación Python.
 
-number: CSCI 000
-title: Generic Computer Science Course
-semester: Fall 2019
+baseurl: "/TemplateCursoComputacional" # the subpath of your site, e.g. /blog
+url: "https://juancollante.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+number: Introducción al pensamiento computacional
+title: Curso introductorio de ciencias computacionales
+semester: primer semestre de 2024
 hypothesis: false
 
 navigation:

@@ -10,23 +10,23 @@ layout: course-multi
 ---
 <br/>
 
-# <a name="description">Overview</a>
+# <a name="description">Descripcion general</a>
 
 {{ site.description }}
 
-## <a name="goals">Learning Goals</a>
+## <a name="goals">Metas de aprendizaje</a>
 
-Upon completing this course, our goal is for you to be able to:
+Al completar este curso, nuestra meta es que usted sea capaz de:
 
-* Build computer programs to:
-  * Effectively solve realistic problems.
-  * Organize, analyze, and summarize realistic data sets.
-* Read, understand, and explain a computer program.
-* Understand and explain computation through:
-  * Thinking logically and precisely.
-  * Making and testing hypotheses.
-* Use modular components to decompose problems and assemble solutions.
-* Create abstract, generalized models from specific, complex examples.
+* Construir programas computacionales para:
+  * Resolver efectivamente problemas realistas.
+  * Organizar, analisar y resumir conjuntos de datos reales.
+* Leer, comprender y explicar programas computacionales.
+* Comprender y explicar la logica computacional a traves de:
+  * Pensamiento logico y correcto.
+  * Postulado y testeo de hipotesis.
+* Usa componentes modulares para descomponer problemas y ensamblar soluciones.
+* Crear modelos abstractos y generalizables, a partir de ejemplos especificos y complejos.
 
 ## <a name="resources">Resources</a>
 
@@ -38,91 +38,69 @@ Upon completing this course, our goal is for you to be able to:
 
 ## Laptop Policy
 
-Please **do not bring laptops to lecture**. This may seem strange in a computer science class. But lab is the place where you will get plenty of experience working on the computer; lecture is a time for thinking and learning without the distraction of a computer.
+Por favor **No traiga su Laptop a las clases**. Esto puede parecer extraño en una clase de ciencias computacionales. Pero los laboratorios serán los espacios donde usted obtendrá mucha experiencia trabajando con computadores; Las clases son un tiempo para pensar y aprender sin las distracciones de un computador.
 
-Exceptions may be made on a case-by-case basis if you can prove to me that you really do benefit from using your laptop to take notes.
+Pueden hacerse excepciones individuales en base a si usted me puede demostrar que su aprendizaje realmente se beneficia de manejar su laptop en clase.
 
 <hr>
 
-# <a name="inclasscode">In-Class Code</a>
+# <a name="inclasscode">Codigo Desarrollado en Clase</a>
 
-When we write code together in class, it will be posted here!
+Cuando nosotros escribimos codigo en clase, se publicará aqui!
 
-| Date | Topic | Code |
+| Fecha | Tema | Codigo |
 |:----:|------||-----||
-| F 30 Aug | Intro to Python | [Intro Notebook](https://pythonintro-yorgey.notebooks.azure.com/j/notebooks/PythonIntro.ipynb) |
-| W 4 Sep | More Math and Functions | [Box Math](https://boxmath-yorgey.notebooks.azure.com/j/notebooks/BoxMath.ipynb) |
-| F 6 Sep | Strings and Booleans | [Booleans](https://booleans-yorgey.notebooks.azure.com/j/notebooks/Strings%20and%20Booleans.ipynb)
+| F 30 Aug | Introducción a Python | [Intro Notebook](https://pythonintro-yorgey.notebooks.azure.com/j/notebooks/PythonIntro.ipynb) |
+| W 4 Sep | Matematica y Funciones | [Box Math](https://boxmath-yorgey.notebooks.azure.com/j/notebooks/BoxMath.ipynb) |
+| F 6 Sep | Cadena y Booleano | [Booleans](https://booleans-yorgey.notebooks.azure.com/j/notebooks/Strings%20and%20Booleans.ipynb)
 
 <hr>
 # Coursework
 
-Each student has **four late days** to spend throughout the semester as they wish.
-Simply inform the instructor any time *prior* to the due date for an assignment
-that you wish to use a late day; you may then turn in the assignment up to 24
-hours late. Multiple late days may be used on the same assignment. There are no
-partial late days; turning in an assignment 2 hours late or 20 hours late will
-both use 1 late day. Note that late days are intended to cover both normal
-circumstances (you simply want more time to work on the assignment) and
-exceptional circumstances (you get sick, travel for a game or family
-obligation, *etc.*). After you have used up your late days, late assignments
-will receive at most half credit.
+Cada estudiante tiene **cuatro días de plazo adicional** para gastar a lo largo del semestre como deseé.
+Simplemente deben informar al instructor en cualquier momento antes de la fecha limite de entrega para el trabajo que requiera postergar. Una vez solicitado el plazo adicional, usted puede entregar el trabajo hasta 24 horas despues de la fecha limite. No se admite el uso parcial de un día de plazo, si usted entrega 2 o 20 horas tarde un trabajo, se le descontará el día de plazo completo.Tenga en cuenta que los días de plazo estan hechos para cubrir circunstancias normales (quiere mas tiempo para terminar) o anormales (esta enfermo, tiene un problema familiar, etc). Despues de haber agotado todos los días de plazo, los trabajos que se entreguen tarde tendran un nota no superior a la mitad de los creditos.
 
-## <a name="hwqz">Homework and Quizzes</a>: 140 points
-
-| #  | Name | Assigned | Due |
+## <a name="hwqz">Tareas y Quices</a>: 
+| #  | Nombre | Inicio | Fin |
 |:--:|-----||:--------:|:---:|
-|0 | [Info Sheet](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | W Aug 28 | F Aug 30 |
-|1 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|2 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|3 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
+|0 | [Boolean](homework\booleans.md) | V Sep 27 | W Oct 2 |
+|1 | [Tarea de muestra]({{site.baseurl}}/homework/function-reading.pdf) | V Sep 27 | W Oct 2 |
+|2 | [Tarea de muestra]({{site.baseurl}}/homework/function-reading.pdf) | V Sep 27 | W Oct 2 |
 
-There will often be short homework assignments to be completed over the weekend, assigned on Friday and due Wednesday, sometimes with a corresponding quiz at the beginning of class on Wednesday.
+Se asignaran tareas cortas para ser completadas cada fin de semana, iniciando el viernes y finalizando el lunes, muchas veces con un quiz al inicio de las clases de los lunes. 
 
-## <a name="labs">Labs</a>: 260 points
+## <a name="labs">Laboratorios</a>: 
 
-| #  | Name | Assigned | Due |
+| #  | Nombre | Inicio | Fin |
 |:--:|-----||:--------:|:---:|
-|1 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Aug 28-29 | Sep 4-5 |
-|2 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 4-5 | Sep 11-12 |
-|3 | [Sample Lab]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 | Sep 18-19 |
+|1 | [Ciclo While](labs\guess.md) | Ago 28-29 | Sep 4-5 |
+|2 | [Laboratorio de muestra]({{site.baseurl}}/labs/sample-lab.html) | Sep 4-5 | Sep 11-12 |
+|3 | [Laboratorio de muestra]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 | Sep 18-19 |
 
-Much of your experience with programming in this course will be through weekly labs. Each lab will be assigned in lab with time allotted to work through the materials, and will be due **by the start of the following lab**. All labs are weighted equally within the lab portion of your final grade.
+La mayor parte de la experiencia en programación de este curso se obtendrá a traves de laboratorios semanales. Cada laboratorio será ubicado en la carpeta de laboratorios de este curso y tednran el tiempo suficiente para trabajar a en él con los materiales entregados. El tiempo de final de entrega para cada laboratorio será hasta  **el inicio del siguiente laboratorio**. Todos los laboratorios tendrán el mismo porcentaje de la nota final de laboratorios. 
 
-On these labs, you will work with a partner on the lab assignments. Their name must be listed on any code you hand in as joint work. A partnership should only turn in a **single copy** of the assignment. If students working as partners wish to turn in a lab late, both students must use a late day.
+En estos laboratorios, usted trabajara con un compañero. Los codigos enviados deben tener el nombre de los dos compañeros que hacen parte del grupo. Cada pareja enviará una **unica copia** de la tarea. 
 
-**Lab attendance is required**. Labs take place in the **Snoddy Computer Lab**, in the Bailey Library. As you go through the exterior door of the library, turn immediately to your left and enter the Snoddy Academic Resource Center. Continue through the door at the far end of the hall into the first computer lab, and then enter the second lab at the back.
+**La asistencia a los laboratorios es obligatoria**. Los labora torios se desarrollarán los viernes **en el aula virtual**.
 
-## <a name="projects">Projects</a>: 350 points
+## <a name="projects">Proyectos</a>:
 
-| #  | Name | Points | Assigned | Due |
+| #  | Nombre | Inicio | Fin |
 |:--:|-----||:------:|:--------:|:---:|
-|1 | [Sample Project]({{site.baseurl}}/projects/sample-project.html)  | 50  | Sep 21 | Sep 30 |
-|2 | [Sample Project]({{site.baseurl}}/projects/sample-project.html) | 100 | Oct 16 | Nov 1 |
-|3 | [Sample Project]({{site.baseurl}}/projects/sample-project.html) | 200 | Nov 18 | Final Exam Day |
+|1 | [Proyecto 1](projects\project2.md)  | 50  | Sep 21 | Sep 30 |
+|2 | [Proyecto de muestra]({{site.baseurl}}/projects/sample-project.html) | Oct 16 | Nov 1 |
+|3 | [Proyecto de muestra]({{site.baseurl}}/projects/sample-project.html) | Nov 18 | Proyecto Final |
 
 You will have three projects in this course, one about every five weeks. These projects will cover concepts we have discussed in class and in labs, and will be due approximately one week after they are assigned.
 
-**You must work individually on the first two projects.** You may discuss concepts and ideas with your classmates, but the code you turn in must be your own. You will be graded not only on correctness, but also technique, documentation and evaluation of your solution. Further details on the grading standards and handin instructions for each project will be given when they are assigned.
+**Debes trabajar individualmente en los dos primeros proyectos**. Puedes discutir conceptos e ideas con tus compañeros de clase, pero el código que entregues debe ser tuyo. Serás evaluado no solo por la corrección, sino también por la técnica, la documentación y la evaluación de tu solución. Se proporcionarán más detalles sobre los estándares de calificación y las instrucciones de entrega para cada proyecto cuando sean asignados.
 
-## <a name="exams">Exams</a>: 250 points
+## <a name="exams">Examenes</a>: 
 
-There will be three in-class exams, the first worth 50 points and the second and
-third worth 100 of your final grade. They will consist of short answer
-questions along with writing and debugging code.
+Habrá tres exámenes en clase, el primero valdrá 50 puntos y el segundo y tercero valdrán 100 puntos de tu nota final. Consistirán en preguntas de respuesta corta, así como en la redacción y depuración de código.
 
-* Exam 1: Sep 20, covering functions, math, numerical data, conditionals, and binary encoding
-* Exam 2: Oct 16, covering input/output, while loops, lists, and strings
-* Exam 3: Nov 25, covering for loops, dictionaries, classes and objects
+* Exam 1: Sep 20, Funciones, matematicas, tipos de datos numericos, condicionales y codigo binario
+* Exam 2: Oct 16, input/output, ciclo while, listsa, tipos de datos String
+* Exam 3: Nov 25, ciclo for, diccionarios, clases y objetos
 
-There is no final exam; you will complete a final project instead, as described above under Projects.
-
-## <a name="scale">Grading Scale</a>
-
-| Score  | Grade  |
-|:------:|:------:|
-| 900-1000  | A   |
-| 800-899   | B   |
-| 700-799   | C   |
-| 600-699   | D   |
-| 0-599     | F   |
+No hay examen final; en su lugar, completarás un proyecto final, como se describe arriba en Proyectos.
