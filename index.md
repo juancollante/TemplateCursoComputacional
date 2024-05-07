@@ -87,7 +87,7 @@ En estos laboratorios, usted trabajara con un compañero. Los codigos enviados d
 
 | #  | Nombre | Inicio | Fin |
 |:--:|-----||:------:|:--------:|:---:|
-|1 | [Proyecto 1]({{site.baseurl}}/projects/project2.md)  | 50  | Sep 21 | Sep 30 |
+|1 | [Proyecto 1](projects/project2.md)  | 50  | Sep 21 | Sep 30 |
 |2 | [Proyecto de muestra]({{site.baseurl}}/projects/sample-project.html) | Oct 16 | Nov 1 |
 |3 | [Proyecto de muestra]({{site.baseurl}}/projects/sample-project.html) | Nov 18 | Proyecto Final |
 
