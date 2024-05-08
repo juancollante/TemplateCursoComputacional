@@ -55,25 +55,25 @@ navigation:
     url: '#commitments'
 
 instructors:
-  - id: Juan
+  - id: Collante
     nombre: Juan Collante
     email: juan.collante@udea.edu.co
     web: 404.html
     telefono: 83482902
     horario de atención: Lu-Vi 2:00 a 3:00 
-  - id: XX_YY_ZZ
+  - id: f
     nombre: XX_YY_ZZ
     email: XX_YY_ZZ
     web: XX_YY_ZZ
     telefono: 1234560
     horario de atención: 404.html
-  - id: XX_YY_ZZ
+  - id: g
     nombre: XX_YY_ZZ
     email: XX_YY_ZZ
     web: XX_YY_ZZ
     telefono: 1234560
     horario de atención: 404.html
-  - id: XX_YY_ZZ
+  - id: h
     nombre: XX_YY_ZZ
     email: XX_YY_ZZ
     web: XX_YY_ZZ
@@ -88,15 +88,15 @@ offerings:
   - name: CLASE 02
     loc: AULA CENTRAL
     time: MWV 11:10am - 12:00pm
-    instructor: goadrich
+    instructor: f
   - name: LAB 01
     loc: Laboratorio TIC
     time: Ju 1:10pm - 4:00pm
-    instructor: ferrer
+    instructor: g
   - name: LAB 02
     loc: Snoddy Computer Lab
     time: W 1:10pm - 4:00pm
-    instructor: seme
+    instructor: h
 
 resources:
   - name: Python 3
@@ -119,7 +119,7 @@ extra-resources:
   - name: CodingBat Python
     image: assets/images/codingbat.jpg
     url: https://codingbat.com/python
-  - name: CheckiO Python Practice
+  - name: CheckiO Python
     image: assets/images/checkio_logo_small.png
     url: https://py.checkio.org/
 

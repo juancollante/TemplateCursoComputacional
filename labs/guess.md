@@ -1,8 +1,8 @@
 ---
 layout: work
 type: Lab
-num: 4
-worktitle: Adivina como me llamo
+num: 1
+worktitle: Adivina mi número
 ---
 
 ## Descripción

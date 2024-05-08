@@ -1,3 +1,0 @@
-This is a test!
-It is in a file.
-Here is another line. It has some text.
