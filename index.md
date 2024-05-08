@@ -32,7 +32,7 @@ Al completar este curso, nuestra meta es que usted sea capaz de:
 
 {% include resources.html content=site.resources %}
 
-## <a name="additional-resources">Optional Resources</a>
+## <a name="additional-resources">Recursos opcionales</a>
 
 {% include resources.html content=site.extra-resources %}
 
@@ -54,7 +54,7 @@ Cuando nosotros escribimos codigo en clase, se publicará aqui!
 | F 6 Sep | Cadena y Booleano | [Booleans](https://booleans-yorgey.notebooks.azure.com/j/notebooks/Strings%20and%20Booleans.ipynb)
 
 <hr>
-# Coursework
+# Trabajo del Curso
 
 Cada estudiante tiene **cuatro días de plazo adicional** para gastar a lo largo del semestre como deseé.
 Simplemente deben informar al instructor en cualquier momento antes de la fecha limite de entrega para el trabajo que requiera postergar. Una vez solicitado el plazo adicional, usted puede entregar el trabajo hasta 24 horas despues de la fecha limite. No se admite el uso parcial de un día de plazo, si usted entrega 2 o 20 horas tarde un trabajo, se le descontará el día de plazo completo.Tenga en cuenta que los días de plazo estan hechos para cubrir circunstancias normales (quiere mas tiempo para terminar) o anormales (esta enfermo, tiene un problema familiar, etc). Despues de haber agotado todos los días de plazo, los trabajos que se entreguen tarde tendran un nota no superior a la mitad de los creditos.
