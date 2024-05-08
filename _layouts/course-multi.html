@@ -8,7 +8,7 @@ layout: course
         <div class="instructor">
         <h4>{{ offer.name }}</h4>
         <p>{{ offer.time }}</p>
-        <h5>Location</h5>
+        <h5>Ubicación</h5>
         <p>{{ offer.loc }}</p>
         {% for inst in site.instructors %}
         {% if offer.instructor == inst.id %}
@@ -16,7 +16,7 @@ layout: course
         <p><a href="{{ inst.web}}">{{ inst.name}}</a><br>
         {{ inst.email }}<br>
         {{ inst.phone }}<br>
-        <a href="{{ inst.officehours }}">Office Hours</a>
+        <a href="{{ inst.officehours }}">Horario de oficina</a>
         </p>
         {% endif %}
         {% endfor %}

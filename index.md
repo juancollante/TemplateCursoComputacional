@@ -49,9 +49,9 @@ Pueden hacerse excepciones individuales en base a si usted me puede demostrar qu
 Cuando nosotros escribimos codigo en clase, se publicará aqui!
 
 | Fecha | Tema | Codigo |
-| F 30 Aug | Introducción a Python | [Intro Notebook](https://pythonintro-yorgey.notebooks.azure.com/j/notebooks/PythonIntro.ipynb) |
-| W 4 Sep | Matematica y Funciones | [Box Math](https://boxmath-yorgey.notebooks.azure.com/j/notebooks/BoxMath.ipynb) |
-| F 6 Sep | Cadena y Booleano | [Booleans](https://booleans-yorgey.notebooks.azure.com/j/notebooks/Strings%20and%20Booleans.ipynb)
+| F 30 Aug | Introducción a Python | [Notas introductorias](https://pythonintro-yorgey.notebooks.azure.com/j/notebooks/PythonIntro.ipynb) |
+| W 4 Sep | Matematica y Funciones | [Matematicas](https://boxmath-yorgey.notebooks.azure.com/j/notebooks/BoxMath.ipynb) |
+| F 6 Sep | Cadena y Booleano | [Booleanos](https://booleans-yorgey.notebooks.azure.com/j/notebooks/Strings%20and%20Booleans.ipynb)
 
 <hr>
 # Trabajo del Curso
