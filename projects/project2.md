@@ -56,7 +56,7 @@ code](http://en.wikipedia.org/wiki/Spaghetti_code), donde las funciones se llama
 ## Advertencias
 * ¡**Comienza temprano**! Elige un juego y pásalo por nosotros. Estamos encantados de ayudarte a pensar en el diseño de tu programa.
 *  Si no te sientes seguro con el uso de funciones para estructurar tu código, te recomendamos primero lograr   que algo muy básico funcione sin usar funciones, luego pensar en cómo abstraer partes de tu código en funciones. Luego repite el proceso, agregando funcionalidad incrementalmente.
-* Históricamente, el proyecto 2 es el momento en el semestre en el que algunos estudiantes se sienten tentados a hacer trampa copiando el código de otros. ¡No sucumbas a esta tentación! Revisa las pautas de [Integridad academica](http://ozark.hendrix.edu/~yorgey/ac-integrity-policy.html) para CSCI. Comienza temprano, busca ayuda a menudo. ¡**Puedes** hacer este proyecto!
+* Históricamente, el proyecto 2 es el momento en el semestre en el que algunos estudiantes se sienten tentados a hacer trampa copiando el código de otros. ¡No sucumbas a esta tentación! Revisa las pautas de integridad academica. Comienza temprano, busca ayuda a menudo. ¡**Puedes** hacer este proyecto!
 
 ## Qué entregar
 
