@@ -78,38 +78,3 @@ Debes entregar todos los archivos necesarios para ejecutar tu código.
       * Las funciones se utilizan para descomponer jerárquicamente el programa.
 
 
-## Warnings
-
-*   **Get started early**! Pick a game and run it by us. We are happy to
-    help you think through the design of your program.
-*   If you are not confident with the use of functions to structure your
-    code, we highly recommend *first* getting something very basic to
-    work without using functions, then thinking about how to abstract
-    parts of your code into functions. Then repeat the process, adding
-    functionality incrementally.
-*   Historically, project 2 is the point in the semester where some
-    students become **tempted to cheat** by copying others' code. Do
-    not succumb to this temptation! Review the [Academic
-    Integrity](http://ozark.hendrix.edu/~yorgey/ac-integrity-policy.html)
-    guidelines for CSCI. Get started early, come for help often.  You
-    **can** do this project!
-
-## What to Hand In
-
-You must hand in all files necessary to run your code.
-
-
-## Grading Criteria
-* A **Level 1** project:
-  * Explains the game to the user, making clear exactly what input
-    is expected and valid whenever it requests information from them.
-  * Enables the human player to play a word game to completion without any errors.
-  * The word game is complex enough to employ at least **three** of the concepts from the list above.
-* A **Level 2** project meets the criteria for **Level 1**, and meets the following additional criteria:
-  * The word game is complex enough to employ at least **five** of the concepts from the list above.
-  * Has at least three levels of difficulty.
-  * Offers the chance to play the game again when finished.
-  * Enables the user to correct mistakes in the entry of information.
-  * Makes good use of functions to structure the project.
-    - Functions are relatively short and conceptually do a single job
-    - Functions are used to hierarchically decompose the program
