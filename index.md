@@ -61,7 +61,7 @@ Simplemente deben informar al instructor en cualquier momento antes de la fecha 
 
 ## <a name="hwqz">Tareas y Quices</a>: 
 | #  | Nombre | Inicio | Fin |
-|0 | [Boolean](homework\booleans.md) | V Sep 27 | W Oct 2 |
+|0 | [Boolean](homework/booleans.md) | V Sep 27 | W Oct 2 |
 |1 | [Tarea de muestra]({{site.baseurl}}/homework/function-reading.pdf) | V Sep 27 | W Oct 2 |
 |2 | [Tarea de muestra]({{site.baseurl}}/homework/function-reading.pdf) | V Sep 27 | W Oct 2 |
 
@@ -70,7 +70,7 @@ Se asignaran tareas cortas para ser completadas cada fin de semana, iniciando el
 ## <a name="labs">Laboratorios</a>: 
 
 | #  | Nombre | Inicio | Fin |
-|1 | [Ciclo While](labs\guess.md) | Ago 28-29 | Sep 4-5 |
+|1 | [Ciclo While](labs/guess.md) | Ago 28-29 | Sep 4-5 |
 |2 | [Laboratorio de muestra]({{site.baseurl}}/labs/sample-lab.html) | Sep 4-5 | Sep 11-12 |
 |3 | [Laboratorio de muestra]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 | Sep 18-19 |
 
@@ -84,7 +84,7 @@ En estos laboratorios, usted trabajara con un compañero. Los codigos enviados d
 
 | #  | Nombre | Inicio | Fin |
 |:--:|-----||:------:|:--------:|:---:|
-|1 | [Proyecto 1]({{site.baseurl}}/projects/project2.md)  | 50  | Sep 21 | Sep 30 |
+|1 | [Proyecto 1](projects/project2.md)  | 50  | Sep 21 | Sep 30 |
 |2 | [Proyecto de muestra]({{site.baseurl}}/projects/sample-project.html) | Oct 16 | Nov 1 |
 |3 | [Proyecto de muestra]({{site.baseurl}}/projects/sample-project.html) | Nov 18 | Proyecto Final |
 
