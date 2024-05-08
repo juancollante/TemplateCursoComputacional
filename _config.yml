@@ -51,8 +51,6 @@ navigation:
         url: '#projects'
       - page: Examenes
         url: '#exams'
-  - page: Compromiso
-    url: '#commitments'
 
 instructors:
   - id: Collante

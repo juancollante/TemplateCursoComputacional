@@ -36,7 +36,7 @@ Al completar este curso, nuestra meta es que usted sea capaz de:
 
 {% include resources.html content=site.extra-resources %}
 
-## Laptop Policy
+## Politica de computadores
 
 Por favor **No traiga su Laptop a las clases**. Esto puede parecer extraño en una clase de ciencias computacionales. Pero los laboratorios serán los espacios donde usted obtendrá mucha experiencia trabajando con computadores; Las clases son un tiempo para pensar y aprender sin las distracciones de un computador.
 
@@ -88,7 +88,7 @@ En estos laboratorios, usted trabajara con un compañero. Los codigos enviados d
 |2 | [Proyecto de muestra]({{site.baseurl}}/projects/sample-project.html) | Oct 16 | Nov 1 |
 |3 | [Proyecto de muestra]({{site.baseurl}}/projects/sample-project.html) | Nov 18 | Proyecto Final |
 
-You will have three projects in this course, one about every five weeks. These projects will cover concepts we have discussed in class and in labs, and will be due approximately one week after they are assigned.
+Tendrás tres proyectos en este curso, uno aproximadamente cada cinco semanas. Estos proyectos cubrirán los conceptos que hemos discutido en clase y en los laboratorios, y tendrán una fecha de entrega aproximadamente una semana después de ser asignados.
 
 **Debes trabajar individualmente en los dos primeros proyectos**. Puedes discutir conceptos e ideas con tus compañeros de clase, pero el código que entregues debe ser tuyo. Serás evaluado no solo por la corrección, sino también por la técnica, la documentación y la evaluación de tu solución. Se proporcionarán más detalles sobre los estándares de calificación y las instrucciones de entrega para cada proyecto cuando sean asignados.
 
