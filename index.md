@@ -10,7 +10,7 @@ layout: course-multi
 ---
 <br/>
 
-# <a name="description">Overview</a>
+# <a name="description">Descripción</a>
 
 {{ site.description }}
 
@@ -28,7 +28,7 @@ Al completar este curso, nuestra meta es que usted sea capaz de:
 * Usa componentes modulares para descomponer problemas y ensamblar soluciones.
 * Crear modelos abstractos y generalizables, a partir de ejemplos especificos y complejos.
 
-## <a name="resources">Resources</a>
+## <a name="resources">Recursos</a>
 
 {% include resources.html content=site.resources %}
 
@@ -49,7 +49,6 @@ Pueden hacerse excepciones individuales en base a si usted me puede demostrar qu
 Cuando nosotros escribimos codigo en clase, se publicará aqui!
 
 | Fecha | Tema | Codigo |
-|:----:|------||-----||
 | F 30 Aug | Introducción a Python | [Intro Notebook](https://pythonintro-yorgey.notebooks.azure.com/j/notebooks/PythonIntro.ipynb) |
 | W 4 Sep | Matematica y Funciones | [Box Math](https://boxmath-yorgey.notebooks.azure.com/j/notebooks/BoxMath.ipynb) |
 | F 6 Sep | Cadena y Booleano | [Booleans](https://booleans-yorgey.notebooks.azure.com/j/notebooks/Strings%20and%20Booleans.ipynb)
@@ -62,7 +61,6 @@ Simplemente deben informar al instructor en cualquier momento antes de la fecha 
 
 ## <a name="hwqz">Tareas y Quices</a>: 
 | #  | Nombre | Inicio | Fin |
-|:--:|-----||:--------:|:---:|
 |0 | [Boolean](homework\booleans.md) | V Sep 27 | W Oct 2 |
 |1 | [Tarea de muestra]({{site.baseurl}}/homework/function-reading.pdf) | V Sep 27 | W Oct 2 |
 |2 | [Tarea de muestra]({{site.baseurl}}/homework/function-reading.pdf) | V Sep 27 | W Oct 2 |
@@ -72,7 +70,6 @@ Se asignaran tareas cortas para ser completadas cada fin de semana, iniciando el
 ## <a name="labs">Laboratorios</a>: 
 
 | #  | Nombre | Inicio | Fin |
-|:--:|-----||:--------:|:---:|
 |1 | [Ciclo While](labs\guess.md) | Ago 28-29 | Sep 4-5 |
 |2 | [Laboratorio de muestra]({{site.baseurl}}/labs/sample-lab.html) | Sep 4-5 | Sep 11-12 |
 |3 | [Laboratorio de muestra]({{site.baseurl}}/labs/sample-lab.html) | Sep 11-12 | Sep 18-19 |
@@ -87,7 +84,7 @@ En estos laboratorios, usted trabajara con un compañero. Los codigos enviados d
 
 | #  | Nombre | Inicio | Fin |
 |:--:|-----||:------:|:--------:|:---:|
-|1 | [Proyecto 1](projects\project2.md)  | 50  | Sep 21 | Sep 30 |
+|1 | [Proyecto 1](projects/project2.md)  | 50  | Sep 21 | Sep 30 |
 |2 | [Proyecto de muestra]({{site.baseurl}}/projects/sample-project.html) | Oct 16 | Nov 1 |
 |3 | [Proyecto de muestra]({{site.baseurl}}/projects/sample-project.html) | Nov 18 | Proyecto Final |
 

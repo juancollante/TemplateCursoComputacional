@@ -31,69 +31,67 @@ semester: primer semestre de 2024
 hypothesis: false
 
 navigation:
-  - title: Overview
+  - title: General
     subfolderitems:
-      - page: Description
+      - page: Descripción
         url: '#description'
-      - page: Learning Goals
+      - page: Metas de aprendizaje
         url: '#goals'
-      - page: Resources
+      - page: Recursos
         url: '#resources'
-  - page: In-Class Code
+  - page: Codigo
     url: '#inclasscode'
-  - title: Coursework
+  - title: Trabajos
     subfolderitems:
-      - page: Homework and Quizzes
+      - page: Tareas y Quices
         url: '#hwqz'
-      - page: Labs
+      - page: Laboratorios
         url: '#labs'
-      - page: Projects
+      - page: Proyectos
         url: '#projects'
-      - page: Exams
+      - page: Examenes
         url: '#exams'
-      - page: Scale
-        url: '#scale'
-  - page: Commitments
+  - page: Compromiso
     url: '#commitments'
 
 instructors:
-  - id: yorgey
-    name: Dr. Brent Yorgey
-    email: yorgey@hendrix.edu
-    web: http://ozark.hendrix.edu/~yorgey
-    phone: (501) 450-1377
-    officehours: https://byorgey.youcanbook.me
-  - id: goadrich
-    name: Dr. Mark Goadrich
-    email: goadrich@hendrix.edu
-    web: http://mark.goadrich.com
-    phone: (501) 450-1367
-    officehours: http://mark.goadrich.com/schedule.html
-  - id: ferrer
-    name: Dr. Gabriel Ferrer
-    email: ferrer@hendrix.edu
-    web: http://ozark.hendrix.edu/~ferrer
-    phone: (501) 450-3879
-    officehours: https://drferrer.youcanbook.me/
-  - id: seme
-    name: Prof. Lars Seme
-    email: seme@hendrix.edu
-    web: https://www.hendrix.edu/mathcs/profile.aspx?id=70795
-    phone: (501) 450-1256
-    officehours: ???
+  - id: Juan
+    nombre: Juan Collante
+    email: juan.collante@udea.edu.co
+    web: 404.html
+    telefono: 83482902
+    horario de atención: Lu-Vi 2:00 a 3:00 
+  - id: XX_YY_ZZ
+    nombre: XX_YY_ZZ
+    email: XX_YY_ZZ
+    web: XX_YY_ZZ
+    telefono: 1234560
+    horario de atención: 404.html
+  - id: XX_YY_ZZ
+    nombre: XX_YY_ZZ
+    email: XX_YY_ZZ
+    web: XX_YY_ZZ
+    telefono: 1234560
+    horario de atención: 404.html
+  - id: XX_YY_ZZ
+    nombre: XX_YY_ZZ
+    email: XX_YY_ZZ
+    web: XX_YY_ZZ
+    telefono: 1234560
+    horario de atención: 404.html
 
 offerings:
-  - name: LECTURE 01
-    loc: MCREY 110
-    time: MWF 8:10am - 9:00am
-    instructor: yorgey
-  - name: LECTURE 02
-    loc: MCREY 110
-    time: MWF 11:10am - 12:00pm
+  - name: CLASE 01
+    loc: AULA CENTRAL
+    time: MWV 8:10am - 9:00am
+    instructor: Collante
+  - name: CLASE 02
+    loc: AULA CENTRAL
+    time: MWV 11:10am - 12:00pm
     instructor: goadrich
   - name: LAB 01
-    loc: Snoddy Computer Lab
-    time: R 1:10pm - 4:00pm
+    loc: Laboratorio TIC
+    time: Ju 1:10pm - 4:00pm
     instructor: ferrer
   - name: LAB 02
     loc: Snoddy Computer Lab
